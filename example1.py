@@ -2,5 +2,3 @@
 
 def sayHelloWorld():
     print("hello world")
-
-
